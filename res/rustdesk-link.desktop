@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=RustDesk
+Name=HookDesk
 NoDisplay=true
-MimeType=x-scheme-handler/rustdesk;
-TryExec=rustdesk
-Exec=rustdesk %u
-Icon=rustdesk
+MimeType=x-scheme-handler/hookdesk;
+TryExec=hookdesk
+Exec=hookdesk %u
+Icon=hookdesk
 Terminal=false
 Type=Application
 StartupNotify=false
-StartupWMClass=rustdesk
+StartupWMClass=hookdesk
